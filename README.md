@@ -1,7 +1,7 @@
 Install
 -------
 ```sh
-npm install --save sitdev-calendar-primefaces
+npm install --save calendar-th-primefaces
 ```
 
 Usage
