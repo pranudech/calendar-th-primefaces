@@ -1,0 +1,11 @@
+{
+  "name": "calendar-th-primefaces",
+  "version": "1.0.0",
+  "description": "calendar-th by primefaces ",
+  "main": "Calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PRANUDECH R.",
+  "license": "MIT"
+}
