@@ -1,6 +1,6 @@
 {
   "name": "calendar-th-primefaces",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "calendar-th by primefaces ",
   "main": "Calendar.js",
   "scripts": {
