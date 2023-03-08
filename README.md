@@ -27,5 +27,5 @@ export const UseCalendar = (props) => {
 };
 
 ```
-[comment]: # npm version patch
-[comment]: # npm publish
+[//]: <> npm version patch
+[//]: <> npm publish
